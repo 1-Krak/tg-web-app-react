@@ -1,6 +1,6 @@
 import './App.css';
 
-const tg =window.Telegram.WebApp;
+const tg = window.Telegram.WebApp;
 
 function App() {
 
@@ -14,8 +14,9 @@ function App() {
 
   return (
     <div className="App">
-      work
+      wuwf
       <button onClick={onClose}>Закрыть</button>
+
     </div>
   );
 }
